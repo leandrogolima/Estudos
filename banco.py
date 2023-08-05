@@ -27,9 +27,4 @@ class ContaCorrente():
         return self.limite
 
 
-leandro = ContaCorrente('Leandro',111222333)
-leandro.Limite_conta()
-leandro.limite
-leandro.Deposita(3250)
-leandro.Consultar_saldo()
-leandro.Sacar(500)
+
