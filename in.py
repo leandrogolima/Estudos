@@ -1,6 +1,6 @@
 import os
 
-'''separa listas com aqrivos e extensoes'''
+'''separa listas com aquivos e extensoes'''
 curr_dir = os.getcwd()
 curr_dir
 arquivos = os.listdir(curr_dir)
